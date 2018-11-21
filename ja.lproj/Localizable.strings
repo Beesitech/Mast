@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Shihab Mehboob on 18/09/2018.
+  
+*/
+
+"Home" = "Home";
+"Local" = "Local";
+"Federated" = "Federated";
+"All" = "All";
+"Replies" = "Replies";
+"Follows" = "Follows";
+"Mastodon instance:" = "Mastodon instance:";
+"Boost" = "Boost";
+"Like" = "Like";
+"Reply" = "Reply";
+"More" = "More";
+"Mute" = "Mute";
+"Block" = "Block";
+"Report" = "Report";
+"Translate" = "Translate";
+"Share" = "Share";
+"Mentions" = "Mentions";
+"Activity" = "Activity";
+"Recent Media" = "Recent Media";
+"All Posts" = "All Posts";
+"All Replies" = "All Replies";

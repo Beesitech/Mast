@@ -1,0 +1,6 @@
+framework module ReactiveSSE {
+  umbrella header "ReactiveSSE-umbrella.h"
+
+  export *
+  module * { export * }
+}
